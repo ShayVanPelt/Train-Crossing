@@ -1,4 +1,3 @@
-# CSC 360 P2
 ### NAME: Shay Van Pelt 
 #
 The **MTS** is a multiple threaded train crossing simulator that takes N number of trains coming from an EAST and WEST station.
