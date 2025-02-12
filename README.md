@@ -8,7 +8,7 @@ The trains run one at a time through the crossing.
 * input.txt
 
     e 10 6  
-    6 7  
+    W 6 7  
     E 3 10   
 
 ## Algorithm:
